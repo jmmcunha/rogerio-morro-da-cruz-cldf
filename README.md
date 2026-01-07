@@ -4,7 +4,7 @@
 
 ## 📥 Download
 
-**[⬇️ Baixar APK v1.0.16](https://github.com/jmmcunha/rogerio-morro-da-cruz-cldf/releases/download/v1.0.16/rogerio-morro-da-cruz-cldf-v1_0_16.apk)**
+**[⬇️ Baixar APK v1.0.16](https://github.com/jmmcunha/rogerio-morro-da-cruz-cldf/releases/download/v1.0.16/rogerio-morro-da-cruz-cldf-v1_0_16.3.apk)**
 
 ## 🎯 Funcionalidades
 
